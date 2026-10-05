@@ -125,7 +125,7 @@ The provided intent contains a Base64-encoded `data` payload.
 ## 💙 Paytm
 
 ```text
-paytmmp://cash_wallet?pa=paytmqr5meevo@ptys&pn=null&cu=INR&tn=AT2eashwkl4n&am=1&featuretype=money_transfer
+paytmmp://cash_wallet?pa=paytmqr5meevo@ptys&pn=null&cu=INR&tn=TXN20261005143758DE67D216&am=1&featuretype=money_transfer
 ```
 
 ### Scheme
@@ -141,7 +141,7 @@ paytmmp://cash_wallet
 | `pa` | `paytmqr5meevo@ptys` |
 | `pn` | `null` |
 | `cu` | `INR` |
-| `tn` | `AT2eashwkl4n` |
+| `tn` | `TXN20261005143758DE67D216` |
 | `am` | `1` |
 | `featuretype` | `money_transfer` |
 
